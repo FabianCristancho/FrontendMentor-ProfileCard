@@ -66,6 +66,6 @@ I complete the challenge successfully!
 ## The mobile design
 ![This is my mobile design solution](./design/my-mobile-design.JPG)
 
-Enjoy my solution here: https://www.frontendmentor.io/solutions/solution-to-profile-card-component-challenge-j6Z9nOdL3/edit 
+Enjoy my solution here: https://www.frontendmentor.io/solutions/solution-to-profile-card-component-challenge-j6Z9nOdL3
 
 Thanks for watching, and please, follow me and share my repos 🙂😃!
